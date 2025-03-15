@@ -1,7 +1,7 @@
 # 🚀 Ahamed Saif
 
 ## 👨‍💻 About Me
-I'm a passionate **AI & Software Engineer** with a strong foundation in **Artificial Intelligence, Machine Learning, and Software Development**. Currently pursuing **Computer Science Engineering** at **SRM Institute of Science and Technology, Vadapalani**. I enjoy solving complex problems, developing innovative applications, and contributing to cutting-edge tech solutions.
+I'm a passionate **AI & Software Engineer** with a strong foundation in **Artificial Intelligence, Machine Learning, and Software Development**. Currently pursuing **Computer Science Engineering** at **SRM Institute of Science and Technology**. I enjoy solving complex problems, developing innovative applications, and contributing to cutting-edge tech solutions.
 
 ---
 ## 🛠 Skills & Expertise
@@ -14,9 +14,6 @@ I'm a passionate **AI & Software Engineer** with a strong foundation in **Artifi
 ## 🚀 Projects
 ### 🔹 **Project X**
 A futuristic **health-tech platform** providing **transparent product insights** using **QR & barcode scanning technology**.
-
-### 🔹 **Intelligent Scanner**
-An advanced **high-speed automated scanner** that efficiently detects and processes QR/barcodes.
 
 📌 **More exciting projects are in development—stay tuned!**
 
