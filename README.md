@@ -23,10 +23,19 @@ An advanced **high-speed automated scanner** that efficiently detects and proces
 ---
 ## 🏆 GitHub Stats & Achievements
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhamedSaif&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhamedSaif&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AhamedSaif&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
+
+---
+## 🌍 Let's Connect!
+📧 **Email:** [ahamedsaif64@gmail.com](mailto:ahamedsaif64@gmail.com)  
+🔗 **LinkedIn:** [Ahamed Saif](https://www.linkedin.com/in/ahamed-saif)
+
+---
+💡 **Driven by innovation, committed to excellence. Let's build the future together!** 🚀
+
 
 ---
 ## 🌍 Let's Connect!
