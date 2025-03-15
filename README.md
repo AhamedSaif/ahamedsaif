@@ -31,17 +31,7 @@ An advanced **high-speed automated scanner** that efficiently detects and proces
 ---
 ## 🌍 Let's Connect!
 📧 **Email:** [ahamedsaif64@gmail.com](mailto:ahamedsaif64@gmail.com)  
-🔗 **LinkedIn:** [Ahamed Saif](https://www.linkedin.com/in/ahamed-saif)
-
----
-💡 **Driven by innovation, committed to excellence. Let's build the future together!** 🚀
-
-
----
-## 🌍 Let's Connect!
-📧 **Email:** [ahamedsaif64@gmail.com](mailto:ahamedsaif64@gmail.com)  
-🔗 **LinkedIn:** [Ahamed Saif](https://www.linkedin.com/in/ahamed-saif)  
-💻 **GitHub:** [GitHub Profile](https://github.com/your-username)  
+🔗 **LinkedIn:** [Ahamed Saif](https://www.linkedin.com/in/ahamed-saif-394858291/)
 
 ---
 💡 **Driven by innovation, committed to excellence. Let's build the future together!** 🚀
