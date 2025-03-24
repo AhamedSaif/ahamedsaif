@@ -1,4 +1,4 @@
-# 🚀 Ahamed Saif
+# 🚀 Hi there Ahamed Saif here
 
 ## 👨‍💻 About Me
 I'm a passionate **AI & Software Engineer** with a strong foundation in **Artificial Intelligence, Machine Learning, and Software Development**. Currently pursuing **Computer Science Engineering** at **SRM Institute of Science and Technology**. I enjoy solving complex problems, developing innovative applications, and contributing to cutting-edge tech solutions.
